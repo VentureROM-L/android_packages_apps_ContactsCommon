@@ -153,7 +153,7 @@ public class ContactListItemView extends ViewGroup
     // The views inside the contact view
     private boolean mQuickContactEnabled = true;
     private CheckableQuickContactBadge mQuickContact;
-    private ImageView mPhotoView;
+    private CheckableImageView mPhotoView;
     private TextView mNameTextView;
     private TextView mPhoneticNameTextView;
     private TextView mLabelView;
